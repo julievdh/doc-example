@@ -3,15 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to test-demo's documentation!
+Welcome to julievdh's CodeRefinery Aalto documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
-   feature-a
-   feature-b
+   
+   
    feature-c
+   what-i-learned
 
 
